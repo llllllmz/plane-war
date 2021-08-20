@@ -1,6 +1,6 @@
 import pygame
 from plane_sprites import *
-
+github
 pygame.init()
 class PlaneGame(object):
     """飞机大战主游戏"""
